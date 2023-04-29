@@ -1,0 +1,23 @@
+body {
+  background-color: lightblue;
+  background-size: cover;
+}
+p {
+  color: aliceblue;
+  font-family: monospace;
+}
+h1 {
+  font-weight: bold;
+  font-family: cursive;
+  color: black;
+  text-align: center;
+}
+h2 { 
+  font-family: cursive; 
+  color: brown;
+}
+h6 {
+  font-family: sans-serif;
+  font-weight: lighter;
+  color: aliceblue;
+} 
